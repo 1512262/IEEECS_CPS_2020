@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Gii thiu}{}% 1
+\BOOKMARK [1][-]{section.2}{Nn tang}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Transformer}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{RoBERTa}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{FasterTransformer}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{ALBERT}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Ph\342n giai Embedding \(Factorized embedding parameterization\)}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Cng hng tham s gia c\341c lp \(Cross-layer parameter sharing\)}{subsection.2.4}% 8
+\BOOKMARK [1][-]{section.3}{D liu v\340 phng ph\341p nghi\352n cu}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Kin tr\372c}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Muc ti\352u hun luyn}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Thut to\341n ti u}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{D liu}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{Qu\341 hun luyn}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Th\355 nghim v\340 Kt qua}{}% 15
+\BOOKMARK [1][-]{section.5}{Kt lun}{}% 16
+\BOOKMARK [1][-]{section*.10}{T\340i liu}{}% 17
